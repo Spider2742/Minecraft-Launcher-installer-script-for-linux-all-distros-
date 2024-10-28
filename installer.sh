@@ -13,7 +13,6 @@ cd minecraft-launcher
 
 # Create a .desktop file for Minecraft
 DESKTOP_FILE="$HOME/.local/share/applications/minecraft.desktop"
-https://github.com/Spider2742/Minecraft-Launcher-installer-script-for-linux-all-distros-
 echo "[Desktop Entry]" > "$DESKTOP_FILE"
 echo "Version=1.0" >> "$DESKTOP_FILE"
 echo "Type=Application" >> "$DESKTOP_FILE"
